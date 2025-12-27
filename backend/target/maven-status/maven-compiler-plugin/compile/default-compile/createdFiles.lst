@@ -1,5 +1,0 @@
-api\SearchController.class
-service\SearchService.class
-app\Main.class
-model\Document.class
-index\InvertedIndex.class
